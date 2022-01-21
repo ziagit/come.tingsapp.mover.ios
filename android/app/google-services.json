@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "970057789047",
+    "firebase_url": "https://tingsapp-335709-default-rtdb.firebaseio.com",
+    "project_id": "tingsapp-335709",
+    "storage_bucket": "tingsapp-335709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970057789047:android:00a5d63bf496c486dce072",
+        "android_client_info": {
+          "package_name": "com.tingsapp.customers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970057789047-k9v5mr91pc8g8mfmt5jjk022ts2loutg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tingsapp.customers",
+            "certificate_hash": "e7e376387c30242b08a3cadcadf27af619ee5417"
+          }
+        },
+        {
+          "client_id": "970057789047-p694fid1glaovliraeefhmu38tac1u7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHzp_LXjQ_39V4LP35L3UH4lfFS_7YJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970057789047-p694fid1glaovliraeefhmu38tac1u7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970057789047:android:dbd3be7d82fbd2a8dce072",
+        "android_client_info": {
+          "package_name": "com.tingsapp.movers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970057789047-hdku08rkubqh2qsoom23s3qe6bbisijr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tingsapp.movers",
+            "certificate_hash": "e7e376387c30242b08a3cadcadf27af619ee5417"
+          }
+        },
+        {
+          "client_id": "970057789047-p694fid1glaovliraeefhmu38tac1u7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHzp_LXjQ_39V4LP35L3UH4lfFS_7YJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970057789047-p694fid1glaovliraeefhmu38tac1u7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
